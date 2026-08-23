@@ -1,16 +1,3 @@
 # WindTurbine-Python
 Real Data Based Wind Turbine Project
-Wind Turbine Specifications:
-Rated Power: 25 KW 
-Cut in speed: 2.5 m/s 
-Cut out speed: 20 m/s 
-Blade Length: 7.6m
-Swept Area: 181 m2
-Hub Height: 50 m
-Generator Efficiency: 0.8
-Betz Limit: 0.593
 
-Wind Speed Data:
-Place: Father Collins Park, Dublin
-Height: 50m
-Duration (Hourly Data): 1/1/2025 – 31/1/2025
